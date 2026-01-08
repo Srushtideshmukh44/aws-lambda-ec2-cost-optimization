@@ -3,6 +3,8 @@
 
 ## 🏗️ Architecture Diagram
 
+## 🏗️ Architecture Diagram
+
 ![AWS Cost Optimization Architecture](screenshots/architecture.png)
 
 ## 📌 Project Overview
