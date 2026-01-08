@@ -3,9 +3,8 @@
 
 ## 🏗️ Architecture Diagram
 
-## 🏗️ Architecture Diagram
-
 ![AWS Cost Optimization Architecture](screenshots/architecture.png)
+
 
 ## 📌 Project Overview
 This project automatically stops unused EC2 instances to reduce AWS costs.
